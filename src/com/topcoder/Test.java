@@ -1,15 +1,15 @@
 package com.topcoder;
 
-public class HelloWorld
+public class Test
 {
 
     public static void main(String... args)
     {
-        new HelloWorld().go();
+        new Test().go();
     }
 
     public void go()
     {
-        System.out.println("Hello world");
+        System.out.println("Test");
     }
 }
