@@ -10,6 +10,6 @@ public class HelloWorld
 
     public void go()
     {
-        System.out.println("Hello world");
+        System.out.println("Hello world2");
     }
 }
